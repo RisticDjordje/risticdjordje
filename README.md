@@ -30,8 +30,9 @@
     ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
     ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-    ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+	
   
 
 - **Front-End**:
@@ -40,6 +41,7 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 
 - **Database**:
@@ -47,7 +49,21 @@
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
     
-</p>
+- **Machine-Learning**:
+	
+    ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+    <img src="https://a11ybadges.com/badge?logo=scikitlearn" alt="scikit-learn" height="28"/>
+    <img src="https://a11ybadges.com/badge?logo=keras" alt="keras" height="28"/>
+    <img src="https://a11ybadges.com/badge?logo=pytorch" alt="PyTorch" height="28"/>
+	
+- **Libraries**:
+	
+	<img src="https://a11ybadges.com/badge?logo=pandas" alt="puppeteer" height="28"/>
+	<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io" height="28"/>
+	<img src="https://a11ybadges.com/badge?logo=puppeteer" alt="puppeteer" height="28"/>
+	<img src="https://a11ybadges.com/badge?logo=numpy" alt="numpy" height="28"/>
+	<img src="https://a11ybadges.com/badge?logo=scipy" alt="scipy" height="28"/>
+</p> 
 
 <br>
 <br>
