@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&duration=2500&pause=1500&center=true&vCenter=true&width=600&height=70&lines=Hi,+I+am+Djordje+Ristic!;"></a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -23,7 +23,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **Tech Stack**:
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +34,7 @@
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
   
 
-- **Front-End Development**:
+- **Front-End**:
 
    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,9 +59,9 @@
 <br>
 <div align="center">
 <p align="center">
-<a href="https:djordjeristic.com"><img src="https://img.shields.io/badge/-djordjeristic.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/djordjeristic/"><img src="https://img.shields.io/badge/-Djordje%20Ristic-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rist.djordje@gmail.com"><img src="https://img.shields.io/badge/-rist.djordje@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https:djordjeristic.com"><img src="https://img.shields.io/badge/-djordjeristic.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://twitter.com/itsdjordje"><img src="https://img.shields.io/badge/-itsdjordje-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/risticcdjordje/"><img src="https://img.shields.io/badge/-risticcdjordje-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
