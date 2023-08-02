@@ -11,11 +11,11 @@
 
 <br>
 
+- Software Engineering Intern at Intuit and Co-Founder of ResuMateX.
 - Interested in Software Engineering, Machine Learning and Entrepreneurship.
 - Computer Science and Business double-major at Minerva University.
-- Personal [website](https://www.djordjeristic.com).
-- Current [resume](https://drive.google.com/file/d/1P8P8xKvHgzqDjVz7OgxAHqdqvegpM_rw/view?usp=sharing).
-- Currently open for SWE / ML internship opportunities!
+- Personal [website](https://www.djordjeristic.com). Current [resume](https://drive.google.com/file/d/1P8P8xKvHgzqDjVz7OgxAHqdqvegpM_rw/view?usp=sharing).
+- Open for SWE / ML summer internship opportunities!
 <br><br><br>
 
 
@@ -27,17 +27,16 @@
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
     ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-	
-  
 
-- **Front-End**:
+- **Web-Dev**:
 
+   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -48,6 +47,7 @@
 
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     
 - **Machine-Learning**:
 	
@@ -56,7 +56,7 @@
     <img src="https://a11ybadges.com/badge?logo=keras" alt="keras" height="28"/>
     <img src="https://a11ybadges.com/badge?logo=pytorch" alt="PyTorch" height="28"/>
 	
-- **Libraries**:
+- **Other**:
 	
 	<img src="https://a11ybadges.com/badge?logo=pandas" alt="puppeteer" height="28"/>
 	<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io" height="28"/>
@@ -78,15 +78,16 @@
 <a href="https://www.linkedin.com/in/djordjeristic/"><img src="https://img.shields.io/badge/-Djordje%20Ristic-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rist.djordje@gmail.com"><img src="https://img.shields.io/badge/-rist.djordje@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https:djordjeristic.com"><img src="https://img.shields.io/badge/-djordjeristic.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://twitter.com/itsdjordje"><img src="https://img.shields.io/badge/-itsdjordje-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<!--<a href="https://twitter.com/itsdjordje"><img src="https://img.shields.io/badge/-itsdjordje-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>-->
 <a href="https://www.instagram.com/risticcdjordje/"><img src="https://img.shields.io/badge/-risticcdjordje-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 </a>
 </div>
 <br>
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+<!--
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -96,9 +97,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=risticdjordje&include_all_commits=true&show_icons=true&theme=github_dark&hide=contribs&count_private=true" />
 </a>
 </div>
+-->
 
-<br>
-<br><br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
