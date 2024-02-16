@@ -11,7 +11,7 @@
 
 <br>
 
-- Former SWE Intern @ Intuit and Co-Founder @ ResuMateX.
+- Building something cool.
 - Interested in Software Engineering, Machine Learning, and Entrepreneurship.
 - Computer Science major & Business minor at Minerva University.
 - Personal [website](https://www.djordjeristic.com). Current [resume](https://drive.google.com/file/d/1P8P8xKvHgzqDjVz7OgxAHqdqvegpM_rw/view?usp=sharing).
