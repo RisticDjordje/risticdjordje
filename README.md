@@ -13,7 +13,6 @@
 
 - Building something cool.
 - Interested in Software Engineering, Machine Learning, and Entrepreneurship.
-- Computer Science major & Business minor at Minerva University.
 <br><br><br>
 
 
